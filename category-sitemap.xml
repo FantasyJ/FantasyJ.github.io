@@ -7,19 +7,10 @@
     </url>
 
     <url>
-        <loc>http://www.6messi.com/java/two-sum/</loc>
+        <loc>http://www.6messi.com/categories/java/</loc>
         <lastmod>2019-09-13T00:05:18.164Z</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://www.6messi.com/article/test/</loc>
-        <lastmod>2019-07-26T01:58:21.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
+        <priority>0.2</priority>
     </url>
 
 </urlset>

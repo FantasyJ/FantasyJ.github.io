@@ -3,12 +3,22 @@
 
     <sitemap>
         <loc>http://www.6messi.com/post-sitemap.xml</loc>
-        <lastmod>2019-07-26T01:58:21.135Z</lastmod>
+        <lastmod>2019-09-13T00:05:18.164Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://www.6messi.com/page-sitemap.xml</loc>
-        <lastmod>2019-07-26T02:23:39.132Z</lastmod>
+        <lastmod>2019-09-13T00:02:35.298Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://www.6messi.com/category-sitemap.xml</loc>
+        <lastmod>2019-09-13T00:05:18.164Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>http://www.6messi.com/tag-sitemap.xml</loc>
+        <lastmod>2019-09-13T00:05:18.164Z</lastmod>
     </sitemap>
 
 </sitemapindex>
